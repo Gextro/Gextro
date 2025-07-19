@@ -9,7 +9,7 @@
 - 💼 Frontend Developer Intern @ Solyn Software (HTML, CSS, Performance Optimization)
 - 🧠 Building projects like **Owlvest Blog Engine**, **Train Seat Booking**, and more
 - 🎯 Tech interests: **Web Dev, UX, Clean Architecture, Open Source**
-- 📫 Reach me at: `gourav.goyal@example.com`
+- 📫 Reach me at: `gorav76600@gmail.com`
 
 ---
 
