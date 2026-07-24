@@ -147,10 +147,26 @@ Serves a trained **RandomForest** model with **live metrics & drift monitoring**
 
 ---
 
-## 🐍 Contribution Snake
+## 🤖 Meet Aria — My AI Assistant
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gextro/Gextro/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <a href="https://gextro.github.io/ai-portfolio-assistant/">
+    <img src="https://api.dicebear.com/9.x/lorelei/svg?seed=Aria&backgroundColor=b6e3f4,c0aede,ffd5dc&hair=long16,long19,long20&glasses=variant01&glassesProbability=30" width="150" alt="Aria — AI assistant" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💬 Ask Aria anything about my skills, projects & experience</b><br/>
+  <sub>An interactive AI assistant I built — she answers questions about my work in real time.</sub>
+</p>
+
+<p align="center">
+  <a href="https://gextro.github.io/ai-portfolio-assistant/">
+    <img src="https://img.shields.io/badge/💬_Chat_with_Aria-8B5CF6?style=for-the-badge&logoColor=white" alt="Chat with Aria" />
+  </a>
+  <a href="https://github.com/Gextro/ai-portfolio-assistant">
+    <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+  </a>
 </p>
 
 ---
