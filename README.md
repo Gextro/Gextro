@@ -126,7 +126,7 @@ Serves a trained **RandomForest** model with **live metrics & drift monitoring**
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gextro&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Gextro&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6" alt="streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Gextro&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6" alt="streak" />
 </p>
 
 <p align="center">
@@ -139,19 +139,11 @@ Serves a trained **RandomForest** model with **live metrics & drift monitoring**
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gextro&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
-</p>
-
----
-
 ## 🤖 Meet Aria — My AI Assistant
 
 <p align="center">
   <a href="https://gextro.github.io/ai-portfolio-assistant/">
-    <img src="https://api.dicebear.com/9.x/lorelei/svg?seed=Aria&backgroundColor=b6e3f4,c0aede,ffd5dc&hair=long16,long19,long20&glasses=variant01&glassesProbability=30" width="150" alt="Aria — AI assistant" />
+    <img src="aria.png" width="150" alt="Aria — AI assistant" />
   </a>
 </p>
 
